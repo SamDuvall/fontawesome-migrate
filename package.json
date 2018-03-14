@@ -1,0 +1,17 @@
+{
+  "name": "fontawesome-migrate",
+  "version": "0.0.1",
+  "description": "RW Shared Code Library",
+  "repository": "git@github.com:rocketwhale/rw-shared.git",
+  "license": "MIT",
+  "author": {
+    "name": "Sam Duvall",
+    "email": "samduvall@gmail.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+
+  }
+}
